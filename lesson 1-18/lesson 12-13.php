@@ -1,5 +1,5 @@
 <?php
- /* lesson 12 
+ // lesson 12 
  // scope resolution
     class FirstClass
     {
@@ -21,8 +21,8 @@
         echo self::$StaticProperty;
         }
    }
-  echo SecondClass::anothertest()
-  */
+  echo SecondClass::anothertest();
+  
 // lesson 13 
 // interface
 
