@@ -18,7 +18,7 @@ I completed the Object-Oriented PHP course available at [YouTube Playlist](https
 
 ### 2. PHP for Beginners Course
 
-I also enrolled in the The PHP Practitioner](https://laracasts.com/series/php-for-beginners/) on Laracasts, which provided a solid foundation in PHP:
+I also enrolled in the [The PHP Practitioner](https://laracasts.com/series/php-for-beginners/) on Laracasts, which provided a solid foundation in PHP:
 
 - PHP basics: Understanding variables, data types, and basic operators.
 - Control structures: Mastering if statements, loops, and switch statements.
